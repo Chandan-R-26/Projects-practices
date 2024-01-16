@@ -1,2 +1,2 @@
 # Projects-practices
-This is not a real-time projects 
+project done using practice dataset 
